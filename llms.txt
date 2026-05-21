@@ -1,0 +1,11 @@
+# Mastra Workflow Cloud
+
+Mastra Workflow Cloud is a SaaS workspace for Mastra workflow dashboard.
+
+Website: https://mastraworkflow.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Mastra workflow dashboard
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
